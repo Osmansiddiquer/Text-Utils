@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Text-Utils/static/css/main.5dcb50cf.css",
+    "main.js": "/Text-Utils/static/js/main.f63c70e2.js",
+    "static/js/787.0cbdef75.chunk.js": "/Text-Utils/static/js/787.0cbdef75.chunk.js",
+    "static/media/sun.svg": "/Text-Utils/static/media/sun.fb857fe8aadb7f1e100d.svg",
+    "index.html": "/Text-Utils/index.html",
+    "static/media/moon-dark.svg": "/Text-Utils/static/media/moon-dark.7362e1ebeac992d25afb.svg",
+    "main.5dcb50cf.css.map": "/Text-Utils/static/css/main.5dcb50cf.css.map",
+    "main.f63c70e2.js.map": "/Text-Utils/static/js/main.f63c70e2.js.map",
+    "787.0cbdef75.chunk.js.map": "/Text-Utils/static/js/787.0cbdef75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcb50cf.css",
+    "static/js/main.f63c70e2.js"
+  ]
+}
