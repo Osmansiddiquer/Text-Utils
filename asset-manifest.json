@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Text-Utils/static/css/main.5dcb50cf.css",
-    "main.js": "/Text-Utils/static/js/main.c841459e.js",
+    "main.css": "/Text-Utils/static/css/main.b3b3ad58.css",
+    "main.js": "/Text-Utils/static/js/main.44511501.js",
     "static/js/787.0cbdef75.chunk.js": "/Text-Utils/static/js/787.0cbdef75.chunk.js",
     "static/media/logo-dark.svg": "/Text-Utils/static/media/logo-dark.22cdab4ce7a528c32bf48633c48aea3f.svg",
     "static/media/logo.svg": "/Text-Utils/static/media/logo.f83ba5314c3ef8de4b80a06aa8ebae9b.svg",
     "static/media/sun.svg": "/Text-Utils/static/media/sun.fb857fe8aadb7f1e100d.svg",
     "index.html": "/Text-Utils/index.html",
     "static/media/moon-dark.svg": "/Text-Utils/static/media/moon-dark.7362e1ebeac992d25afb.svg",
-    "main.5dcb50cf.css.map": "/Text-Utils/static/css/main.5dcb50cf.css.map",
-    "main.c841459e.js.map": "/Text-Utils/static/js/main.c841459e.js.map",
+    "main.b3b3ad58.css.map": "/Text-Utils/static/css/main.b3b3ad58.css.map",
+    "main.44511501.js.map": "/Text-Utils/static/js/main.44511501.js.map",
     "787.0cbdef75.chunk.js.map": "/Text-Utils/static/js/787.0cbdef75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dcb50cf.css",
-    "static/js/main.c841459e.js"
+    "static/css/main.b3b3ad58.css",
+    "static/js/main.44511501.js"
   ]
 }
